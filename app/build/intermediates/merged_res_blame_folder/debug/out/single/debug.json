@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_activity_cart.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_item_product.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_item_cart.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_category_text_selector.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/category_text_selector.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_qty_btn_bg.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/qty_btn_bg.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_activity_order_success.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_order_success.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_activity_checkout.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_ic_placeholder.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_ic_add.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_badge_background.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_activity_login.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_category_bg_selector.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/category_bg_selector.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_ic_grocery_logo.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/ic_grocery_logo.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_item_category.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_ic_delete.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_ic_remove.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/drawable_ic_cart.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-merged_res-43:/layout_activity_home.xml.flat",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_home.xml"
+    }
+]

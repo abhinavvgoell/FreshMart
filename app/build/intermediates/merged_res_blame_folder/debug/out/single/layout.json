@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/activity_login.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/activity_order_success.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_order_success.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/item_cart.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/activity_home.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/activity_cart.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/item_product.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/activity_checkout.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.oceanx.groceryapp-mergeDebugResources-42:/layout/item_category.xml",
+        "source": "com.oceanx.groceryapp-main-45:/layout/item_category.xml"
+    }
+]

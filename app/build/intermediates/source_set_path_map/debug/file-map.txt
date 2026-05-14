@@ -1,0 +1,46 @@
+com.oceanx.groceryapp-jetified-emoji2-1.2.0-0 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\00f3479dd6676530705b7994da02a7f0\transformed\jetified-emoji2-1.2.0\res
+com.oceanx.groceryapp-sqlite-framework-2.4.0-1 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\0164c128f04d465792146a68a1aadddf\transformed\sqlite-framework-2.4.0\res
+com.oceanx.groceryapp-jetified-savedstate-ktx-1.2.1-2 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\104322d9ecdd8e05cf005e5aaab43656\transformed\jetified-savedstate-ktx-1.2.1\res
+com.oceanx.groceryapp-lifecycle-livedata-core-2.7.0-3 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\19540e96d3d22f3546fd37def08c4bc8\transformed\lifecycle-livedata-core-2.7.0\res
+com.oceanx.groceryapp-jetified-lifecycle-viewmodel-ktx-2.7.0-4 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\2238aee291a90d26baa1329302bd5ef1\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.oceanx.groceryapp-cardview-1.0.0-5 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\2640ff1d09b8fae021159eb73df056b7\transformed\cardview-1.0.0\res
+com.oceanx.groceryapp-core-runtime-2.2.0-6 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\33208208ee558ac9ee4ae9595d7a1be0\transformed\core-runtime-2.2.0\res
+com.oceanx.groceryapp-material-1.11.0-7 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\3a55b422cfa2659303f5804dfafd3a71\transformed\material-1.11.0\res
+com.oceanx.groceryapp-transition-1.2.0-8 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\407a1a41327d576eb50170fceeadc9a9\transformed\transition-1.2.0\res
+com.oceanx.groceryapp-jetified-core-ktx-1.12.0-9 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\4529247933cc7fac3c6bf8d8fc97a868\transformed\jetified-core-ktx-1.12.0\res
+com.oceanx.groceryapp-appcompat-1.6.1-10 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\46fd0d5805d38e6aadbe709827dce2d9\transformed\appcompat-1.6.1\res
+com.oceanx.groceryapp-jetified-emoji2-views-helper-1.2.0-11 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\48b480da28b3c3fe9a5ee67f0d0303af\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.oceanx.groceryapp-drawerlayout-1.1.1-12 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\4ab2202134812fe5c292866510f643f2\transformed\drawerlayout-1.1.1\res
+com.oceanx.groceryapp-coordinatorlayout-1.1.0-13 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\4ed8aaaedc64957877b452472b978c39\transformed\coordinatorlayout-1.1.0\res
+com.oceanx.groceryapp-jetified-profileinstaller-1.3.0-14 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\53b1e33921f936ba4448ec29251f6f3e\transformed\jetified-profileinstaller-1.3.0\res
+com.oceanx.groceryapp-core-1.12.0-15 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\55860e9d62dbec381e3eef0d12450bb2\transformed\core-1.12.0\res
+com.oceanx.groceryapp-jetified-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\5db4af4a1a569413a3a871ede72c0d59\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.oceanx.groceryapp-jetified-activity-1.8.2-17 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\64c595102a9e63a393a3dcdd51fdcbfb\transformed\jetified-activity-1.8.2\res
+com.oceanx.groceryapp-jetified-lifecycle-process-2.7.0-18 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\6cf1be075d8495e6dabb79e567e56ef0\transformed\jetified-lifecycle-process-2.7.0\res
+com.oceanx.groceryapp-constraintlayout-2.1.4-19 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\7ba5cbb443526f7ebff2d826a7c16d1d\transformed\constraintlayout-2.1.4\res
+com.oceanx.groceryapp-jetified-lifecycle-runtime-ktx-2.7.0-20 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\803d4868d158401f3c5fd8f5a59ec67f\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.oceanx.groceryapp-jetified-lifecycle-livedata-core-ktx-2.7.0-21 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\8c611de948444d44abb4b4d739e4b605\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.oceanx.groceryapp-room-runtime-2.6.1-22 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\91f5cbda8dd78c94f6aae23a2c542267\transformed\room-runtime-2.6.1\res
+com.oceanx.groceryapp-jetified-lifecycle-livedata-ktx-2.7.0-23 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\9483cc47ca8e10c9cb42f2056a0d2647\transformed\jetified-lifecycle-livedata-ktx-2.7.0\res
+com.oceanx.groceryapp-jetified-customview-poolingcontainer-1.0.0-24 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\94bfbe069fb7e6a76cc2b53a9aa5e41e\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.oceanx.groceryapp-fragment-1.3.6-25 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\99498507bdf42a19e6cc29b0b337a199\transformed\fragment-1.3.6\res
+com.oceanx.groceryapp-jetified-room-ktx-2.6.1-26 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\a1ae7c32544b49db1642bd1ca19957e0\transformed\jetified-room-ktx-2.6.1\res
+com.oceanx.groceryapp-jetified-startup-runtime-1.1.1-27 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\a2425a4f987ab13a2ba0bc8352079f32\transformed\jetified-startup-runtime-1.1.1\res
+com.oceanx.groceryapp-lifecycle-livedata-2.7.0-28 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\a7ed0ac6a8e35f776b01e1a51fe14be0\transformed\lifecycle-livedata-2.7.0\res
+com.oceanx.groceryapp-jetified-activity-ktx-1.8.2-29 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\b49cd397aba60570f8bce44e29144574\transformed\jetified-activity-ktx-1.8.2\res
+com.oceanx.groceryapp-sqlite-2.4.0-30 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\b6b371406fe2795dc6d8297fc7a45c93\transformed\sqlite-2.4.0\res
+com.oceanx.groceryapp-lifecycle-runtime-2.7.0-31 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\be4e2dcf13b9572630c3ba4e3aea8f3f\transformed\lifecycle-runtime-2.7.0\res
+com.oceanx.groceryapp-jetified-annotation-experimental-1.3.0-32 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\c336d264d72ea82bc41586a1931101f8\transformed\jetified-annotation-experimental-1.3.0\res
+com.oceanx.groceryapp-jetified-savedstate-1.2.1-33 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\c7e1ef70ef140bb91d6024467db54f5e\transformed\jetified-savedstate-1.2.1\res
+com.oceanx.groceryapp-jetified-appcompat-resources-1.6.1-34 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\dd0349a92f451fe7abb06447c1fc869b\transformed\jetified-appcompat-resources-1.6.1\res
+com.oceanx.groceryapp-jetified-viewpager2-1.1.0-beta02-35 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\e2f01638a55c03e25ea594769394223e\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.oceanx.groceryapp-recyclerview-1.3.2-36 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\ed99af24d641c4156f76260ed8f6ef5c\transformed\recyclerview-1.3.2\res
+com.oceanx.groceryapp-jetified-glide-4.16.0-37 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\f6ab424469dae8162c3a33fc9e874a13\transformed\jetified-glide-4.16.0\res
+com.oceanx.groceryapp-lifecycle-viewmodel-2.7.0-38 C:\Users\Abhinav Goel\.gradle\caches\transforms-3\f91a0d910cc4d6f5e975b14b25c50268\transformed\lifecycle-viewmodel-2.7.0\res
+com.oceanx.groceryapp-pngs-39 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\build\generated\res\pngs\debug
+com.oceanx.groceryapp-resValues-40 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\build\generated\res\resValues\debug
+com.oceanx.groceryapp-packageDebugResources-41 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.oceanx.groceryapp-packageDebugResources-42 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.oceanx.groceryapp-merged_res-43 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\build\intermediates\merged_res\debug
+com.oceanx.groceryapp-debug-44 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\src\debug\res
+com.oceanx.groceryapp-main-45 C:\Users\Abhinav Goel\Desktop\grocery app\GroceryApp\app\src\main\res
